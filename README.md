@@ -1,0 +1,1 @@
+University of Tartu fall 2013 Robotix course project made by Roman Shumailov(programming), Karl-Kristjan Kokk(Mechanics/Team Lead), Karl-Jaen Lainevool(Electronics) and Siim Andres(Programming/Mechanics/Electronics). Robot's software for Robotex 2013 contest. Programming language Python 2.7 with use of OpenCV, pySerial and NumPy. Launch software from TestMotors files.
